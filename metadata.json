@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Saathi",
+  "description": "A farmer-friendly multilingual agricultural assistant with voice and typing, real weather, crop doctor photo analysis, mandi prices, crop advisory, and government schemes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
